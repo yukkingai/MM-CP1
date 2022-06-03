@@ -1,10 +1,9 @@
-# Multimedia Authoring 2 - Music Mixer Check Point 1
-
-This is our first time ever Music Mixer project (not there yet, this is just the 1st draft) for MMED-1055 Multimedia Authoring 2 class in Fanshawe College.
+# Dum Sim Music Mixer (Hong Kong Style!)
 
 This is a project that we want to create a themed music mixer animation to show our professor about our hometown - Hong Kong. It is a food music mixer, and shows case that a local HongKonger, holding a dim sum container. With javascript interaction, there are 10 dim sum allowed to drag and drop on the person, then local music will be played.
 
-The music mixer contains a large background image(the local hongkonger) for dropping totally 10 icons onto it. User could choose those 10 icons which are svg images of 10 different dim sum foods represented HK. The icons are covered by a bamboo cover, the dishes will be revealed when user's mouse hit the icons.
+The music mixer contains a large background image(the local HongKonger) for dropping totally 10 icons onto the guy and the he will play the HK music. User could choose those 10 icons which are svg images of 10 different dim sum foods represented HK, the icons are covered by a bamboo cover, the dishes will be revealed when user's mouse hit the icons.
+
 
 HTML, CSS and Javascript are expected to be used in term of the interaction with users who will interact with these icons, and play with them, drag and drop for playing some Cantonese songs(if no copyright issue).
 
@@ -12,7 +11,7 @@ HTML, CSS and Javascript are expected to be used in term of the interaction with
 
 # MIT License
 
-Copyright 2022 Yukki Ngai, Chau Lin Lam
+Copyright 2022 Yukki Ngai, Chau Lin Lam (Cathy)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -30,7 +29,27 @@ Yuki's email: y_ngai@fanshaweonline.ca
 
 Cathy's email: c_lam151841@fanshaweonline.ca
 
+# Jobs duties
+:stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes:
+
+Lam Chau Lin:
+
+Design: logo, icons, illustration
+
+Website development: html, css, js
+
+Others: Research
+
+Yuki:
+
+Design: idea
+
+Website development: html, css, js
+
+Others: Research
+
 # About us
+:stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes:
 
 What Yuki said...
 
@@ -40,12 +59,12 @@ I can chat with weirdo, please try to work with me if you are lol
 
 I wish I am abnormal...
 
-===========================================================================
+=========================================================================================
 
 What Cathy said...
 
 This is the first time for us to create a website related to Javascript.
 
-We have no relevant experience in creating interactive websites.
+We have no relevant experience in creating interactive websites. 
 
-Thus, this is very challenging for us, but it is also a good experience for us.
+Although it is a bit challenging for us, but still a GOOD experience for us!
