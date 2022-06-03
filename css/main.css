@@ -1,0 +1,66 @@
+/** this is a quick reset - remove default browser styles */
+* {
+    border: none;
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+body { 
+    margin: 0px;
+	border: 0px;
+	background-image:url(../images/bg_final.jpg);
+    width: 2000px;
+    background-position: center;
+	background-repeat:no-repeat;
+    background-attachment: fixed;
+	background-color: #0d1136;
+	color:#FFF;
+	font-family: 'Luckiest Guy', sans-serif;
+    font-size: 16px; 
+}
+
+.hidden { display: none; }
+
+.svg-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr 1fr);
+    /* grid-template-columns: 1fr 1fr; */
+    grid-template-rows: auto;
+    grid-gap: 20px;
+}
+
+.container img { width: 100%; 
+    filter:drop-shadow(-25px 25px 25px rgba(26,58,70,0.7));
+}
+
+.container img:hover {
+    filter:blur(2px);;
+}
+
+#dmmlogo :hover #dimsum {
+    fill: rgb(255, 111, 0) !important;
+}
+
+#logo_header {
+    width: 150px;
+    margin: 25px;
+}
+
+#dimsumbg img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 180px;
+    width: 150px;
+}
+
+.two-items {
+    display: grid;
+    margin-top: 45px;
+    grid-column: 2 / span 7;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-evenly;
+    row-gap: .5em;
+    column-gap: 2em;
+}
